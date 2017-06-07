@@ -1,0 +1,36 @@
+@font-face(url="")
+
+@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great|Source+Sans+Pro');
+
+  .img-responsive {
+
+    margin: 0 auto;
+
+}
+*
+{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+  h1{
+      font-family: 'Fredericka the Great', cursive;
+  }
+
+.pizza_unit img {
+    width: 50%;
+    height: auto;
+
+}
+
+.pizza_unit{
+    background-image: url("../images/bg1.jpeg");
+    margin: 30px;
+}
+
+.pizzaiolo{
+    position: relative;
+    margin-top: -100px;
+}
+
+.orange{
+    background-color: #f46534;
+}
